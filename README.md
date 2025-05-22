@@ -2,8 +2,6 @@
 
 A robust, feature-rich OTP (One-Time Password) verification system built with Python and Tkinter.
 
-![SecureVerify Interface](https://github.com/yourusername/secureverify/raw/main/screenshots/otp_verification.png)
-
 ## Features
 
 - **Email-based OTP delivery**: Send verification codes securely via email
