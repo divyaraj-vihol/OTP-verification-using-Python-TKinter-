@@ -84,10 +84,7 @@ The application offers several customization options:
 
 ## Screenshots
 
-![Light Theme](https://github.com/yourusername/secureverify/raw/main/screenshots/light_theme.png)
-![Dark Theme](https://github.com/yourusername/secureverify/raw/main/screenshots/dark_theme.png)
-![Verification Success](https://github.com/yourusername/secureverify/raw/main/screenshots/verification_success.png)
-![History Tab](https://github.com/yourusername/secureverify/raw/main/screenshots/history_tab.png)
+(https://github.com/divyaraj-vihol/OTP-verification-using-Python-TKinter-/raw/master/screen-shot(projcet).png)
 
 ## Contributing
 
