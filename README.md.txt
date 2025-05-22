@@ -23,12 +23,8 @@ A robust, feature-rich OTP (One-Time Password) verification system built with Py
 - Internet connection (for sending emails)
 
 ## Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/secureverify.git
-   cd secureverify
-   ```
+git clone https://github.com/divyaraj-vihol/OTP-verification-using-Python-TKinter-.git
+cd OTP-verification-using-Python-TKinter-
 
 2. Install dependencies (if not already installed):
    ```
@@ -82,17 +78,10 @@ The application offers several customization options:
 - **Email Message**: Customize the text sent with the OTP (use {otp} as a placeholder)
 - **Theme**: Toggle between light and dark interface themes
 
-## Screenshots
-
-(https://github.com/divyaraj-vihol/OTP-verification-using-Python-TKinter-/raw/master/screen-shot(projcet).png)
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
 
