@@ -1,4 +1,0 @@
-📱 SecureVerify: Advanced OTP Verification System
-A comprehensive Python-Tkinter application for secure email-based OTP verification with customizable formats, real-time expiration, verification history tracking, and theme switching.
-Perfect for learning about verification systems or integrating into small applications needing secure authentication.
-#python #tkinter #security #authentication #otp #verification
